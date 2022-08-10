@@ -1,0 +1,15 @@
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\bin\Debug\net6.0\qwer001.exe
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\bin\Debug\net6.0\qwer001.deps.json
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\bin\Debug\net6.0\qwer001.runtimeconfig.json
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\bin\Debug\net6.0\qwer001.dll
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\bin\Debug\net6.0\qwer001.pdb
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\obj\Debug\net6.0\qwer001.csproj.AssemblyReference.cache
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\obj\Debug\net6.0\qwer001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\obj\Debug\net6.0\qwer001.AssemblyInfoInputs.cache
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\obj\Debug\net6.0\qwer001.AssemblyInfo.cs
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\obj\Debug\net6.0\qwer001.csproj.CoreCompileInputs.cache
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\obj\Debug\net6.0\qwer001.dll
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\obj\Debug\net6.0\refint\qwer001.dll
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\obj\Debug\net6.0\qwer001.pdb
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\obj\Debug\net6.0\qwer001.genruntimeconfig.cache
+C:\Users\sgwipes\Desktop\qwerty\qwer1\qwer001\obj\Debug\net6.0\ref\qwer001.dll
